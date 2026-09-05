@@ -1,0 +1,6 @@
+{
+  "name": "TRAVEL - Visit Tokyo",
+  "description": "Production-quality dark travel landing page inspired by Japan tour packages, featuring cinematic destinations, video showcases, and modern minimalist dark aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
